@@ -1,0 +1,812 @@
+[
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceTransformer",
+        "importPath": "sentence_transformers",
+        "description": "sentence_transformers",
+        "isExtraImport": true,
+        "detail": "sentence_transformers",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "ast",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ast",
+        "description": "ast",
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "Counter",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "mean",
+        "importPath": "statistics",
+        "description": "statistics",
+        "isExtraImport": true,
+        "detail": "statistics",
+        "documentation": {}
+    },
+    {
+        "label": "median",
+        "importPath": "statistics",
+        "description": "statistics",
+        "isExtraImport": true,
+        "detail": "statistics",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "torch.optim",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.optim",
+        "description": "torch.optim",
+        "detail": "torch.optim",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "ContrastiveLoss",
+        "importPath": "src.losses",
+        "description": "src.losses",
+        "isExtraImport": true,
+        "detail": "src.losses",
+        "documentation": {}
+    },
+    {
+        "label": "create_pairs",
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "isExtraImport": true,
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "pair_text",
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "isExtraImport": true,
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "confusion_matrix",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "wandb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wandb",
+        "description": "wandb",
+        "detail": "wandb",
+        "documentation": {}
+    },
+    {
+        "label": "LargeTrainDataset",
+        "importPath": "data_functions.datasets",
+        "description": "data_functions.datasets",
+        "isExtraImport": true,
+        "detail": "data_functions.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "LargeTestDataset",
+        "importPath": "data_functions.datasets",
+        "description": "data_functions.datasets",
+        "isExtraImport": true,
+        "detail": "data_functions.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "LargeTrainDataset",
+        "importPath": "data_functions.datasets",
+        "description": "data_functions.datasets",
+        "isExtraImport": true,
+        "detail": "data_functions.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "LargeTestDataset",
+        "importPath": "data_functions.datasets",
+        "description": "data_functions.datasets",
+        "isExtraImport": true,
+        "detail": "data_functions.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "ClassificationHead",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SimSkip",
+        "importPath": "models.models",
+        "description": "models.models",
+        "isExtraImport": true,
+        "detail": "models.models",
+        "documentation": {}
+    },
+    {
+        "label": "train_mlp",
+        "importPath": "train",
+        "description": "train",
+        "isExtraImport": true,
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_model",
+        "importPath": "train",
+        "description": "train",
+        "isExtraImport": true,
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "importPath": "utils.helper_utils",
+        "description": "utils.helper_utils",
+        "isExtraImport": true,
+        "detail": "utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "make_loader",
+        "importPath": "utils.helper_utils",
+        "description": "utils.helper_utils",
+        "isExtraImport": true,
+        "detail": "utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_datasets",
+        "importPath": "utils.helper_utils",
+        "description": "utils.helper_utils",
+        "isExtraImport": true,
+        "detail": "utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "pair_text",
+        "importPath": "utils.helper_utils",
+        "description": "utils.helper_utils",
+        "isExtraImport": true,
+        "detail": "utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "importPath": "project.src.train",
+        "description": "project.src.train",
+        "isExtraImport": true,
+        "detail": "project.src.train",
+        "documentation": {}
+    },
+    {
+        "label": "validate_mlp",
+        "importPath": "test_val",
+        "description": "test_val",
+        "isExtraImport": true,
+        "detail": "test_val",
+        "documentation": {}
+    },
+    {
+        "label": "test",
+        "importPath": "test_val",
+        "description": "test_val",
+        "isExtraImport": true,
+        "detail": "test_val",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_thresholds",
+        "importPath": "utils.metrics_utils",
+        "description": "utils.metrics_utils",
+        "isExtraImport": true,
+        "detail": "utils.metrics_utils",
+        "documentation": {}
+    },
+    {
+        "label": "plot_predictions",
+        "importPath": "utils.metrics_utils",
+        "description": "utils.metrics_utils",
+        "isExtraImport": true,
+        "detail": "utils.metrics_utils",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "encoder_train_log",
+        "importPath": "project.src.utils.logging_utils",
+        "description": "project.src.utils.logging_utils",
+        "isExtraImport": true,
+        "detail": "project.src.utils.logging_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mlp_train_log",
+        "importPath": "project.src.utils.logging_utils",
+        "description": "project.src.utils.logging_utils",
+        "isExtraImport": true,
+        "detail": "project.src.utils.logging_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mlp_epoch_log",
+        "importPath": "project.src.utils.logging_utils",
+        "description": "project.src.utils.logging_utils",
+        "isExtraImport": true,
+        "detail": "project.src.utils.logging_utils",
+        "documentation": {}
+    },
+    {
+        "label": "plot_predictions",
+        "importPath": "project.src.utils.logging_utils",
+        "description": "project.src.utils.logging_utils",
+        "isExtraImport": true,
+        "detail": "project.src.utils.logging_utils",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "importPath": "project.src.models.models",
+        "description": "project.src.models.models",
+        "isExtraImport": true,
+        "detail": "project.src.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "get_embeddings_from_sentences",
+        "kind": 2,
+        "importPath": "src.data_functions.data_preprocessing",
+        "description": "src.data_functions.data_preprocessing",
+        "peekOfCode": "def get_embeddings_from_sentences(sentences, text_model_name = 'all-mpnet-base-v2'):\n    model = SentenceTransformer(text_model_name)\n    embeddings = model.encode(sentences)\n    return embeddings\ndef csv_file_to_embeddings(input_csv_path, text_model_name = 'all-mpnet-base-v2', download = False, output_csv_path = None):\n    \"\"\"\n    Reads text data from a csv file, and returns the embedded data, \n    and downloads them if necessary. This function ensures compatability of the \n    data format with the needed format for the model later on.\n    Args:",
+        "detail": "src.data_functions.data_preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "csv_file_to_embeddings",
+        "kind": 2,
+        "importPath": "src.data_functions.data_preprocessing",
+        "description": "src.data_functions.data_preprocessing",
+        "peekOfCode": "def csv_file_to_embeddings(input_csv_path, text_model_name = 'all-mpnet-base-v2', download = False, output_csv_path = None):\n    \"\"\"\n    Reads text data from a csv file, and returns the embedded data, \n    and downloads them if necessary. This function ensures compatability of the \n    data format with the needed format for the model later on.\n    Args:\n    input_csv_path (str): path to the input csv file.\n    text_model_name (str): name of the text model to be used.\n    download (bool, optional): whether to download the embeddings, defaults to False.\n    output_csv_path (str, optional): path to the output csv file, defaults to None.",
+        "detail": "src.data_functions.data_preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "split_data",
+        "kind": 2,
+        "importPath": "src.data_functions.data_preprocessing",
+        "description": "src.data_functions.data_preprocessing",
+        "peekOfCode": "def split_data(data_df, dataset_folder_path = None, validation_size = 0.05, test_size = 0.15, random_state = 42):\n    \"\"\"\n    Splits the embedded data into training, validation, and test sets, and downloads them as CSV files.\n    This function performs the following operations:\n    1. Splits the input dataframe into 80% training and 20% temporary data.\n    2. Further splits the temporary data into 40% validation and 60% test data.\n    3. Saves the resulting datasets as CSV files.\n    4. Prints the size of each dataset.\n    Args:\n        data_df (pandas.DataFrame): The input dataframe containing embedded data.",
+        "detail": "src.data_functions.data_preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "LargeTrainDataset",
+        "kind": 6,
+        "importPath": "src.data_functions.datasets",
+        "description": "src.data_functions.datasets",
+        "peekOfCode": "class LargeTrainDataset(Dataset):\n    def __init__(self, data_df, transform=None):\n        self.data = data_df\n        self.transform = transform\n    def __len__(self):\n        return len(self.data)\n    def __getitem__(self, idx):\n        # Extract embeddings\n        thought_embedding = torch.tensor(ast.literal_eval(self.data.iloc[idx]['thought_embedding']))\n        reframing1_embedding = torch.tensor(ast.literal_eval(self.data.iloc[idx]['reframing1_embedding']))",
+        "detail": "src.data_functions.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "LargeTestDataset",
+        "kind": 6,
+        "importPath": "src.data_functions.datasets",
+        "description": "src.data_functions.datasets",
+        "peekOfCode": "class LargeTestDataset(Dataset):\n    def __init__(self, data_df, transform=None):\n        self.data = data_df\n        self.transform = transform\n    def __len__(self):\n        return len(self.data)\n    def __getitem__(self, idx):\n        # Extract embeddings\n        thought_embedding = torch.tensor(ast.literal_eval(self.data.iloc[idx]['thought_embedding']))\n        reframing1_embedding = torch.tensor(ast.literal_eval(self.data.iloc[idx]['reframing1_embedding']))",
+        "detail": "src.data_functions.datasets",
+        "documentation": {}
+    },
+    {
+        "label": "check_file_exists",
+        "kind": 2,
+        "importPath": "src.data_functions.json_data_processing",
+        "description": "src.data_functions.json_data_processing",
+        "peekOfCode": "def check_file_exists(rel_path = 'Datasets/reframe_thoughts_dataset/valid.txt'):\n    cwd = os.getcwd()\n    path = os.path.join(cwd, rel_path)\n    return os.path.isfile(path)\ndef parse_json_file(path):\n    \"\"\"\n    Parses a JSON file containing thoughts and reframings. Each line in the file should be a JSON object, \n    where each object represents a thought entry. Each object should have a 'thought' key with a string value.\n    Args:\n        path (str): The file path to the JSON file.",
+        "detail": "src.data_functions.json_data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "parse_json_file",
+        "kind": 2,
+        "importPath": "src.data_functions.json_data_processing",
+        "description": "src.data_functions.json_data_processing",
+        "peekOfCode": "def parse_json_file(path):\n    \"\"\"\n    Parses a JSON file containing thoughts and reframings. Each line in the file should be a JSON object, \n    where each object represents a thought entry. Each object should have a 'thought' key with a string value.\n    Args:\n        path (str): The file path to the JSON file.\n    Returns:\n        list: A list of dictionaries where each dictionary represents a thought entry.\n                Each entry should have a 'thought' key with a string value and a 'reframes' key\n                with a list of dictionaries, each containing a 'reframe' key with a string value.",
+        "detail": "src.data_functions.json_data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "analyse_reframings_count",
+        "kind": 2,
+        "importPath": "src.data_functions.json_data_processing",
+        "description": "src.data_functions.json_data_processing",
+        "peekOfCode": "def analyse_reframings_count(data, print_stats = False):\n    \"\"\"\n    Analyzes the count of reframings in a given dataset of thoughts.\n    Args:\n        data (list): A list of dictionaries where each dictionary represents a thought entry.\n                        Each entry should have a 'thought' key with a string value and a 'reframes' key\n                        with a list of dictionaries, each containing a 'reframe' key with a string value.\n        print_stats (bool, optional): If True, prints the statistics. Defaults to False.\n    Returns:\n        dict: A dictionary containing the following statistics:",
+        "detail": "src.data_functions.json_data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "create_reframing_df",
+        "kind": 2,
+        "importPath": "src.data_functions.json_data_processing",
+        "description": "src.data_functions.json_data_processing",
+        "peekOfCode": "def create_reframing_df(data, desired_num_reframings = 3):\n    \"\"\"\n    Creates a DataFrame containing thoughts and their corresponding reframings.\n    This function processes a list of dictionaries, each representing an entry with a \n    'thought' and a list of 'reframes'. It filters entries to include only those with \n    the specified number of reframings and constructs a DataFrame with the thought and \n    each reframe as separate columns.\n    Args:\n        data (list): A list of dictionaries, where each dictionary contains a 'thought' \n                        (str) and optionally a list of 'reframes' (list of dicts).",
+        "detail": "src.data_functions.json_data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "json_to_csv",
+        "kind": 2,
+        "importPath": "src.data_functions.json_data_processing",
+        "description": "src.data_functions.json_data_processing",
+        "peekOfCode": "def json_to_csv(input_path, output_path, desired_num_reframings = 3):\n    \"\"\"\n    Converts a JSON file to a CSV file with a specified number of reframings, in the format that fits our training.\n    Args:\n        input_path (str): The path to the input JSON file.\n        output_path (str): The path to the output CSV file.\n        desired_num_reframings (int, optional): The desired number of reframings to include in the CSV. Defaults to 3.\n    Returns:\n        None\n    Side Effects:",
+        "detail": "src.data_functions.json_data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "csv_text_to_embeddings_csv",
+        "kind": 2,
+        "importPath": "src.data_functions.json_data_processing",
+        "description": "src.data_functions.json_data_processing",
+        "peekOfCode": "def csv_text_to_embeddings_csv(csv_path, text_model, output_path):\n    data_df = pd.read_csv(csv_path)\n    # Extract texts\n    thought_texts = data_df['thought'].tolist()\n    reframing1_texts = data_df['reframing1'].tolist()\n    reframing2_texts = data_df['reframing2'].tolist()\n    reframing3_texts = data_df['reframing3'].tolist()\n    # Generate embeddings\n    thought_embeddings = text_model.encode(thought_texts, convert_to_tensor=False).tolist()\n    reframing1_embeddings = text_model.encode(reframing1_texts, convert_to_tensor=False).tolist()",
+        "detail": "src.data_functions.json_data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "SimSkipEncoder",
+        "kind": 6,
+        "importPath": "src.models.models",
+        "description": "src.models.models",
+        "peekOfCode": "class SimSkipEncoder(nn.Module):\n    def __init__(self, input_dim, dropout_rate=0.1):\n        super(SimSkipEncoder, self).__init__()\n        self.layer1 = nn.Sequential(\n        nn.Linear(input_dim, input_dim // 2),\n        nn.BatchNorm1d(input_dim // 2, eps = 1e-4),\n        nn.ReLU(),\n        nn.Dropout(dropout_rate)\n        )\n        self.layer2 = nn.Sequential(",
+        "detail": "src.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SimSkipProjector",
+        "kind": 6,
+        "importPath": "src.models.models",
+        "description": "src.models.models",
+        "peekOfCode": "class SimSkipProjector(nn.Module):\n    def __init__(self, input_dim, projection_dim):\n        super(SimSkipProjector, self).__init__()\n        self.layer1 = nn.Linear(input_dim, input_dim)\n        self.layer2 = nn.Linear(input_dim, projection_dim)\n    def forward(self, x):\n        x = self.layer1(x)\n        x = F.relu(x) # Adds non linearity to the projection which should perform better.\n        x = self.layer2(x)\n        return x",
+        "detail": "src.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "SimSkip",
+        "kind": 6,
+        "importPath": "src.models.models",
+        "description": "src.models.models",
+        "peekOfCode": "class SimSkip(nn.Module):\n    def __init__(self, input_dim, dropout_rate=0.1, projection_dim = 128, loss_temperature = 0.1, learning_rate = 0.001, weight_decay = 1e-4):\n        super(SimSkip, self).__init__()\n        self.encoder = SimSkipEncoder(input_dim, dropout_rate)\n        self.projector = SimSkipProjector(input_dim, projection_dim)\n        self.loss = ContrastiveLoss(temperature=loss_temperature)\n        self.optimizer = torch.optim.Adam(self.parameters(),\n                                     lr=learning_rate,\n                                     weight_decay = weight_decay\n                                     )",
+        "detail": "src.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "ClassificationHead",
+        "kind": 6,
+        "importPath": "src.models.models",
+        "description": "src.models.models",
+        "peekOfCode": "class ClassificationHead(nn.Module):\n    def __init__(self, \n                 input_dim, \n                 is_wandb_watching,\n                 hidden_dim=1024, \n                 output_dim=2, \n                 negative_samples_count= 2,\n                 dropout_rate=0.05, \n                 learning_rate=0.01\n                 ):",
+        "detail": "src.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "src.models.models",
+        "description": "src.models.models",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nclass SimSkipEncoder(nn.Module):\n    def __init__(self, input_dim, dropout_rate=0.1):\n        super(SimSkipEncoder, self).__init__()\n        self.layer1 = nn.Sequential(\n        nn.Linear(input_dim, input_dim // 2),\n        nn.BatchNorm1d(input_dim // 2, eps = 1e-4),\n        nn.ReLU(),\n        nn.Dropout(dropout_rate)\n        )",
+        "detail": "src.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "create_pairs",
+        "kind": 2,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "def create_pairs(thoughts, reframings, num_negatives = 2, shuffle = False):\n    \"\"\"\n    Creates both positive and negative pairs and combines them into a single dataset.\n    Args:\n        thoughts (Tensor): Batch of thought tensors.\n        reframings (Tensor): Batch of all concatenated reframings tensors.\n        negative_samples_count (int, optional): Number of negative samples per sentence. Default is 2.\n    Returns:\n        dict: Dictionary with combined positive and negative pairs.\n        Tensor: Combined labels tensor.",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_positive_pairs",
+        "kind": 2,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "def create_positive_pairs(thoughts, reframings):\n    \"\"\"\n    Creates positive pairs from sentences and reframings. it keeps track\n    of the indices of the positives, so we can retrieve the text of\n    the pairs later.\n    Args:\n        thoughts (Tensor): Batch of thoughts tensors.\n        reframings (Tensor): Batch of all reframings combined tensors.\n    Returns:\n        dict: Dictionary with positive pairs.",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "create_negative_pairs",
+        "kind": 2,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "def create_negative_pairs(thoughts, reframings, negative_samples_count):\n    \"\"\"\n    Creates negative pairs by selecting random reframings that are not\n    true matches. it keeps track of the indices of the negatives, so we\n    can retrieve the text of the pairs later.\n    Args:\n        thoughts (Tensor): Batch of thoughts tensors.\n        reframings (Tensor): Batch of all reframings combined tensors.\n        negative_samples_count (int): Number of negative samples per sentence.\n    Returns:",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "pair_text",
+        "kind": 2,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "def pair_text(thoughts_text, reframings_text, pos_indices, neg_indices, is_wandb_watching):\n  \"\"\"\n  Pairs the sentences text with their positive and negative reframings that\n  were created in the negative and positive examples step, will be used to\n  visualise the results.\n  This sort of traces the steps we did when creating positive and negative\n  examples from embeddings in 'create_pairs' function, but this time on the\n  text itself.\n  Args:\n    thoughts_text: The thoughts text.",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "shuffle_pairs_and_labels",
+        "kind": 2,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "def shuffle_pairs_and_labels(pairs, labels):\n        \"\"\"\n        Shuffles pairs and labels together, and returns the shuffled indices\n        to keep track of the data.\n        Args:\n            pairs (dict): Dictionary containing 'thought'nd 'reframing' tensors.\n            labels (Tensor): Labels tensor.\n        Returns:\n            dict: Shuffled pairs dictionary.\n            Tensor: Shuffled labels tensor.",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed",
+        "kind": 2,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "def set_seed(seed):\n    \"\"\"\n    Set the random seed for reproducibility.\n    \"\"\"\n    # Reproducibility\n    torch.use_deterministic_algorithms(True, warn_only=True)\n    torch.manual_seed(42)\n    np.random.seed(42)\n    def seed_worker(worker_id):\n        worker_seed = torch.initial_seed() % 2**32",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "make_loader",
+        "kind": 2,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "def make_loader(data, batch_size, seed_worker, g, shuffle = True):\n    \"\"\"\n    Create a DataLoader for the given dataset.\n    This function creates a PyTorch DataLoader with specified parameters,\n    including custom worker initialization for reproducibility.\n    Args:\n        data (Dataset): The dataset to load.\n        batch_size (int): Number of samples per batch.\n        num_workers (int): Number of subprocesses to use for data loading.\n        shuffle (bool, optional): Whether to shuffle the data. Defaults to True.",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_datasets",
+        "kind": 2,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "def get_datasets(dataset_path):\n    \"\"\"\n    Load the datasets from the specified path.\n    Args:\n        dataset_path (str): The path to the dataset.\n    Returns:\n        tuple: A tuple containing the train, validation, and test datasets.\n    \"\"\"\n    cwd = os.getcwd()\n    train_path = os.path.join(cwd, dataset_path, 'train_vectors.csv')",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "src.utils.helper_utils",
+        "description": "src.utils.helper_utils",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\ndef create_pairs(thoughts, reframings, num_negatives = 2, shuffle = False):\n    \"\"\"\n    Creates both positive and negative pairs and combines them into a single dataset.\n    Args:\n        thoughts (Tensor): Batch of thought tensors.\n        reframings (Tensor): Batch of all concatenated reframings tensors.\n        negative_samples_count (int, optional): Number of negative samples per sentence. Default is 2.\n    Returns:\n        dict: Dictionary with combined positive and negative pairs.",
+        "detail": "src.utils.helper_utils",
+        "documentation": {}
+    },
+    {
+        "label": "encoder_train_log",
+        "kind": 2,
+        "importPath": "src.utils.logging_utils",
+        "description": "src.utils.logging_utils",
+        "peekOfCode": "def encoder_train_log(loss, val_loss, example_count, epoch, is_wandb_watching, is_logging_epoch = False, total_epochs = 25):\n    \"\"\"\n    Logs training and validation losses to WandB.\n    Args:\n        loss (float): Training loss.\n        val_loss (float): Validation loss.\n        example_count (int): Number of examples seen.\n        epoch (int): Current epoch.\n    \"\"\"\n    if is_logging_epoch:",
+        "detail": "src.utils.logging_utils",
+        "documentation": {}
+    },
+    {
+        "label": "log_metrics",
+        "kind": 2,
+        "importPath": "src.utils.logging_utils",
+        "description": "src.utils.logging_utils",
+        "peekOfCode": "def log_metrics(metrics, prefix='', log = True, print = True):\n    \"\"\"\n    Log the metrics to the console and to Weights & Biases.\n    This function logs the metrics to the console and to Weights & Biases\n    using the `wandb.log` method.\n    Args:\n        metrics (dict): A dictionary containing the metrics to log.\n        prefix (str): An optional prefix to add to the metric names.\n    \"\"\"\n    for key, value in metrics.items():",
+        "detail": "src.utils.logging_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mlp_epoch_log",
+        "kind": 2,
+        "importPath": "src.utils.logging_utils",
+        "description": "src.utils.logging_utils",
+        "peekOfCode": "def mlp_epoch_log(epoch, total_epochs, epoch_train_loss, validation_metrics, is_wandb_watching):\n    \"\"\"\n    Logs the epoch metrics for the MLP training.\n    Args:\n        epoch (int): The current epoch number.\n        tooal_epochs (int): The total number of epochs.\n        epoch_train_loss (float): The average training loss for the epoch.\n        metrics (dict): Dictionary containing evaluation metrics.\n        is_wandb_watching (bool): Whether Weights & Biases is enabled.\n    \"\"\"",
+        "detail": "src.utils.logging_utils",
+        "documentation": {}
+    },
+    {
+        "label": "mlp_train_log",
+        "kind": 2,
+        "importPath": "src.utils.logging_utils",
+        "description": "src.utils.logging_utils",
+        "peekOfCode": "def mlp_train_log(train_metrics, batch_count, total_batches, example_count, epoch, is_wandb_watching):\n    \"\"\"\n    Logs training and validation losses to WandB.\n    Args:\n        train_metrics (dict): Dictionary containing training metrics, including the loss value.\n        batch_count (int): Current batch number.\n        total_batches (int): Total number of batches.\n        example_count (int): Number of examples seen.\n        epoch (int): Current epoch.\n        is_wandb_watching (bool): Whether Weights & Biases is enabled.",
+        "detail": "src.utils.logging_utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_metrics_from_predictions",
+        "kind": 2,
+        "importPath": "src.utils.metrics_utils",
+        "description": "src.utils.metrics_utils",
+        "peekOfCode": "def get_metrics_from_predictions(y_true, y_pred):\n    \"\"\"\n    Calculate various metrics from the true and predicted labels.\n    This function calculates the following metrics:\n    - F1 Score\n    - Accuracy\n    - Precision\n    - Recall\n    - Confusion Matrix components\n    Args:",
+        "detail": "src.utils.metrics_utils",
+        "documentation": {}
+    },
+    {
+        "label": "ContrastiveLoss",
+        "kind": 6,
+        "importPath": "src.losses",
+        "description": "src.losses",
+        "peekOfCode": "class ContrastiveLoss(nn.Module):\n    def __init__(self, temperature=0.1, include_thoughts_as_negatives = True):\n        super(ContrastiveLoss, self).__init__()\n        self.temperature = temperature\n        self.include_thoughts_as_negatives = include_thoughts_as_negatives\n    def forward(self, thoughts, reframings):\n        dim = thoughts.shape[1]\n        batch_size = thoughts.shape[0]\n        positives_per_thought = reframings.shape[0] // batch_size\n        # Combine thoughts and reframings into a single tensor, this is so we can include other thoughts as negatives for each thought",
+        "detail": "src.losses",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "src.losses",
+        "description": "src.losses",
+        "peekOfCode": "device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\nclass ContrastiveLoss(nn.Module):\n    def __init__(self, temperature=0.1, include_thoughts_as_negatives = True):\n        super(ContrastiveLoss, self).__init__()\n        self.temperature = temperature\n        self.include_thoughts_as_negatives = include_thoughts_as_negatives\n    def forward(self, thoughts, reframings):\n        dim = thoughts.shape[1]\n        batch_size = thoughts.shape[0]\n        positives_per_thought = reframings.shape[0] // batch_size",
+        "detail": "src.losses",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "src.main",
+        "description": "src.main",
+        "peekOfCode": "def main():\n    # Configuration\n    config = dict(\n        # Encoder Training\n        epochs=25,\n        batch_size=32,\n        num_workers=0,\n        learning_rate=0.001,\n        weight_decay = 1e-4,\n        temperature = 0.1,",
+        "detail": "src.main",
+        "documentation": {}
+    },
+    {
+        "label": "validate_mlp",
+        "kind": 2,
+        "importPath": "src.test_val",
+        "description": "src.test_val",
+        "peekOfCode": "def validate_mlp(encoder_model, mlp_evaluator, val_loader, is_wandb_watching, device = 'cpu'):\n    \"\"\"\n    Validates the MLP model on the validation set. Compares and plots classification head predictions vs plain cosine similarity predictions.\n    Args:\n        encoder_model (torch.nn.Module): The encoder model used for encoding sentences and reframings.\n        mlp_evaluator (MLPEvaluator): The MLP evaluator object.\n        val_loader (torch.utils.data.DataLoader): The validation data loader.\n    Returns:\n        tuple: A tuple containing the threshold, average loss, and results dictionary with all sentences.\n    Raises:",
+        "detail": "src.test_val",
+        "documentation": {}
+    },
+    {
+        "label": "test",
+        "kind": 2,
+        "importPath": "src.test_val",
+        "description": "src.test_val",
+        "peekOfCode": "def test(model, mlp_evaluator, test_loader, is_wandb_watching, threshold = 0.5, device = 'cpu'):\n    model.eval()\n    results = {\n        'batch': [],\n        'thought': [],\n        'reframing': [],\n        'prediction': [],\n        'label': [],\n        'correct': []\n    }",
+        "detail": "src.test_val",
+        "documentation": {}
+    },
+    {
+        "label": "EarlyStopping",
+        "kind": 6,
+        "importPath": "src.train",
+        "description": "src.train",
+        "peekOfCode": "class EarlyStopping:\n    \"\"\"\n    Early stopping utility to stop training when validation loss does not improve.\n    \"\"\"\n    def __init__(self, is_mlp = False, patience=7, delta=0, best_model_path = 'models/best_model.pth', best_mlp_path = 'models/best_mlp.pth'):\n        self.patience = patience\n        self.delta = delta\n        self.counter = 0\n        self.best_score = None\n        self.early_stop = False",
+        "detail": "src.train",
+        "documentation": {}
+    },
+    {
+        "label": "train_model",
+        "kind": 2,
+        "importPath": "src.train",
+        "description": "src.train",
+        "peekOfCode": "def train_model(model, dataloader, val_loader, config, is_wandb_watching, device = 'cpu'):\n    \"\"\"\n    Trains the given model using the provided data loader, criterion, and optimizer.\n    Args:\n        model (torch.nn.Module): The model to train.\n        dataloader (DataLoader): DataLoader for training data.\n        val_loader (DataLoader): DataLoader for validation data.\n        criterion (nn.Module): Loss function.\n        optimizer (torch.optim.Optimizer): Optimizer for training.\n        lr_scheduler (torch.optim.lr_scheduler): Learning rate scheduler.",
+        "detail": "src.train",
+        "documentation": {}
+    },
+    {
+        "label": "train_mlp",
+        "kind": 2,
+        "importPath": "src.train",
+        "description": "src.train",
+        "peekOfCode": "def train_mlp(model, mlp_evaluator, train_loader, val_loader, config, is_wandb_watching, device = 'cpu'):\n    \"\"\"\n    Trains the MLP classification head, after the encoder is trained.\n    Args:\n        model (torch.nn.Module): The model with the encoder\n        mlp_evaluator (ClassificationHead): the classification head to train.\n        train_loader (DataLoader): DataLoader for training data.\n        val_loader (DataLoader): DataLoader for validation data.\n        criterion (nn.Module): Loss function, default is BCEWithLogitsLoss.\n        config (Namespace): Configuration object with training parameters.",
+        "detail": "src.train",
+        "documentation": {}
+    }
+]
